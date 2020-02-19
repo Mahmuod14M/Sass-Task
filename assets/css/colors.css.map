@@ -1,0 +1,1 @@
+{"version":3,"file":"colors.css","sources":["colors.scss"],"sourcesContent":["$mainColor : #2c3e51;\r\n$mainColorLight : #dbdef1;\r\n$logoColor : #e04251;\r\n$logoColorLight : #f87c87;\r\n$blue : #4767e1;\r\n$aqua : #58fffe;\r\n$darkAqua : #74a4b4;\r\n"],"names":[],"mappings":""}

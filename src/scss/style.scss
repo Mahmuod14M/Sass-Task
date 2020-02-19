@@ -1,0 +1,23 @@
+@import "./colors";
+
+.text-center{
+  text-align: center;
+}
+.color-red{
+color: $logoColor !important;
+  &:after{
+    background-image: linear-gradient(to right,$logoColor, $logoColorLight) !important;
+}
+}
+.color-blue{
+color: $blue !important;
+  &:after{
+    background-image: linear-gradient(to right,$blue, $mainColorLight) !important;
+}
+}
+.color-green{
+color: #42cec4 !important;
+  &:after{
+    background-image: linear-gradient(to right,#42cec4, #fff) !important;
+}
+}
